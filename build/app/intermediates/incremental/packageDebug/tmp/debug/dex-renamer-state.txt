@@ -1,0 +1,4 @@
+#Wed Feb 17 21:02:40 CST 2021
+base.0=/home/marvin/Desktop/Dev/flutter_food_delivery_ui/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
