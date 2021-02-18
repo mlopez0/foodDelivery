@@ -1,4 +1,3 @@
-# flutter_food_delivery_ui
+# foodDelivery App
 
-A new Flutter project.
-
+UI
